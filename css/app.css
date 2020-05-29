@@ -1,0 +1,132 @@
+@font-face {
+  font-family: "GroteskRemix";
+  src: url("../font/GroteskRemix-Medium.otf");
+}
+
+body {
+  font-family: "GroteskRemix", serif;
+  font-size: 0.75rem;
+  padding: 1rem 1rem 0 1rem;
+}
+
+.container {
+  width: 100%;
+  padding-bottom: 3rem;
+}
+
+.card {
+  display: table;
+  margin-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fluid-img {
+  width: 100%;
+  max-width: 350px;
+  height: 480px;
+}
+
+canvas {
+  border: 1px solid black;
+}
+
+p {
+  padding-bottom: 0.5rem;
+}
+
+.image-1 {
+  background: url("../images/1.jpg") no-repeat center/100%;
+}
+
+.image-2 {
+  background: url("../images/2.jpg") no-repeat center/100%;
+}
+
+.image-3 {
+  background: url("../images/3.jpg") no-repeat center/100%;
+}
+
+.image-4 {
+  background: url("../images/4.jpg") no-repeat center/100%;
+}
+
+.image-5 {
+  background: url("../images/5.jpg") no-repeat center/100%;
+}
+
+.image-6 {
+  background: url("../images/6.jpg") no-repeat center/100%;
+}
+
+.image-7 {
+  background: url("../images/7.jpg") no-repeat center/100%;
+}
+
+.image-8 {
+  background: url("../images/8.jpg") no-repeat center/100%;
+}
+
+.image-9 {
+  background: url("../images/9.jpg") no-repeat center/100%;
+}
+
+.image-10 {
+  background: url("../images/10.jpg") no-repeat center/100%;
+}
+
+.image-11 {
+  background: url("../images/11.jpg") no-repeat center/100%;
+}
+
+.image-12 {
+  background: url("../images/12.jpg") no-repeat center/100%;
+}
+
+.link-1 {
+  color: brown;
+}
+
+.link-2 {
+  color: green;
+}
+
+.link-3 {
+  color: pink;
+}
+
+.link-4 {
+  color: blue;
+}
+
+.link-5 {
+  color: red;
+}
+
+.link-6 {
+  color: brown;
+}
+
+.link-7 {
+  color: black;
+}
+
+.link-8 {
+  color: blue;
+}
+
+.link-9 {
+  color: green;
+}
+
+.link-10 {
+  color: brown;
+}
+
+.link-11 {
+  color: black;
+}
+
+.link-12 {
+  color: pink;
+}
